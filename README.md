@@ -2,15 +2,6 @@
 
 Dashboard untuk monitoring dan analisis data pendidikan MCS.
 
-```
-pip install -r requirements.txt
-```
-
-```
-python3 -m streamlit run app.py
-```
-
-
 ## Fitur
 
 1. **Overview**
@@ -47,6 +38,14 @@ Jalankan aplikasi dengan perintah:
 ```bash
 streamlit run app.py
 ```
+
+or
+
+
+```
+python3 -m streamlit run app.py
+```
+
 
 ## Teknologi
 
