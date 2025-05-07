@@ -15,7 +15,7 @@ engine = create_engine(os.getenv("SUPABASE_CONNECTION_STRING"))
 
 # Set page config
 st.set_page_config(
-    page_title="Dashboard MCS",
+    page_title="Dashboard Demo Tahfizh",
     page_icon="📊",
     layout="wide"
 )
@@ -27,7 +27,7 @@ st.markdown("""
         padding: 2rem;
     }
     .stMetric {
-        background-color: #f0f2f6;
+        background-color: #cadafa;
         padding: 1rem;
         border-radius: 0.5rem;
     }
@@ -35,7 +35,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.title("📊 Dashboard MCS")
+st.title("📊 Dashboard Demo Tahfizh")
 
 # 1. Widget Overview (Ringkasan Umum)
 st.header("1. Overview")
