@@ -2,6 +2,10 @@
 
 Dashboard untuk monitoring dan analisis data pendidikan MCS.
 
+```
+pip install -r requirements.txt
+```
+
 ## Fitur
 
 1. **Overview**
